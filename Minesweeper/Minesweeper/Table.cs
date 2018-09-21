@@ -23,7 +23,7 @@ namespace Minesweeper
         Brush br = new SolidBrush(Color.Silver);
         Brush br2 = new SolidBrush(Color.Red);
         private FormGame formGame;
-        bool visual = false;
+        bool visual = false; 
         public COMAI comAI;
         public int numOfColomLine;// שלב התחלתי ישנו לוח 8 על 8
            

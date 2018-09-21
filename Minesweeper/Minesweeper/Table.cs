@@ -26,7 +26,7 @@ namespace Minesweeper
         bool visual = false;
         public COMAI comAI;
         public int numOfColomLine;// שלב התחלתי ישנו לוח 8 על 8
-          
+           
         //-----------------------------------------------------------------------------------------------------------------------------------------------------
         public Table(int minX, int minY, int width, int hight,
                      int cellW, int cellH, int gap, int noCellsW, int noCellsH, FormGame formGame, int numOfColomLine /*level*/)//פעולה בונה
